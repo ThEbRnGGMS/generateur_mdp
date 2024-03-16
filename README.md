@@ -1,2 +1,2 @@
-# generateur_mdp
+# GENERATEUR MDP
 génerateur de mot de passe
